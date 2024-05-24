@@ -18,7 +18,7 @@ or unzip the file provided to you.
 ### Run application
 1. Open project in IDE: Open > select project directory.
 2. Run `mvn clean javafx:run` on the command line.
-3. Alternatively, run `com.example.Main` in the IDE.
+3. Alternatively, run `com.example.Main` in the IDE. Use the default settings.
 
 ### Run executable jar
 Create an executable jar:
