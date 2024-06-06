@@ -63,7 +63,7 @@ A huge topic, so just some ideas to get you started:
 - Most of the CRUD operations are done on the database rather than the 
   in-memory store of the data. How can this be changed to improve the 
   performance?
-- Which data structures and which data structures might be particularly
+- Which data structures and which algorithms might be particularly
   suitable?
 
 ### Testing
